@@ -1,0 +1,269 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",------------- FRANCE HD --------------
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE HD",|FR| TF1 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78492
+#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE HD",|FR| FRANCE 2 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78491
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE HD",|FR| FRANCE 3 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78490
+#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE HD",|FR| FRANCE 4 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78489
+#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE HD",|FR| FRANCE 5 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78488
+#EXTINF:0 tvg-id="FranceO.fr" group-title="FRANCE HD",|FR| FRANCE O HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78487
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| FRANCE 3 NOA HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78486
+#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE HD",|FR| 6TER HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78485
+#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE HD",|FR| M6 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78484
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| TF1 SERIES FILMS HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78483
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| TFX HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78482
+#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE HD",|FR| RTL 9 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78481
+#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE HD",|FR| TEVA HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78480
+#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE HD",|FR| TMC HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78479
+#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE HD",|FR| W9 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78478
+#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE HD",|FR| C8 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/86842
+#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE HD",|FR| ARTE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78477
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| NON STOP PEOPLE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78475
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| NOVELAS TV HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78474
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| ONE TV HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78473
+#EXTINF:0 tvg-id="RougeTV.fr" group-title="FRANCE HD",|FR| ROUGE TV HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78472
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| RTS UN HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78471
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| RTS DEUX HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78470
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| CSTAR HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78469
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| LA CHAINE METEO HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78468
+#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE HD",|FR| COMEDIE  HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78465
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| COMEDY CENTRAL HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78464
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| VIAGRANDPARIS
+http://ip.mooniptv.cz:80/307276126725/307276126725/78463
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| CANAL 31
+http://ip.mooniptv.cz:80/307276126725/307276126725/78462
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| CANAL 8 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78461
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| CLIQUE TV HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78460
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="FRANCE HD",|FR| EQUIPE 21 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78459
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| IDF 1
+http://ip.mooniptv.cz:80/307276126725/307276126725/78458
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| OLYMPIA HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78457
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| LEMAN BLEU HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78454
+#EXTINF:0 tvg-id="KTO.fr" group-title="FRANCE HD",|FR| KTO
+http://ip.mooniptv.cz:80/307276126725/307276126725/78456
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| BOOSTER TV HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78455
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| CANAL 9 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78453
+#EXTINF:0 tvg-id="ext" group-title="FRANCE HD",|FR| THE SWIZZ HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78452
+#EXTINF:0 tvg-id="OLTV.fr" group-title="FRANCE HD",|FR| OLTV
+http://ip.mooniptv.cz:80/307276126725/307276126725/78451
+
+#EXTINF:0 tvg-id="ext" group-title="|FR| CANAL+ HD",------------ |FR| CANAL+ HD ----------
+http://ip.mooniptv.cz:80/307276126725/307276126725/78450
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="|FR| CANAL+ HD",|FR| CANAL+ HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78449
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="|FR| CANAL+ HD",|FR| CANAL+ SPORT HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78448
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="|FR| CANAL+ HD",|FR| CANAL+ SERIE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78447
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="|FR| CANAL+ HD",|FR| CANAL+ FAMILY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78446
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="|FR| CANAL+ HD",|FR| CANAL+ DECALE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78445
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="|FR| CANAL+ HD",|FR| CANAL+ CINEMA HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78444
+
+#EXTINF:0 tvg-id="ext" group-title="|FR| CINEMA HD",-------------- |FR| CINEMA HD ------------
+http://ip.mooniptv.cz:80/307276126725/307276126725/78443
+#EXTINF:0 tvg-id="Action.fr" group-title="|FR| CINEMA HD",|FR| ACTION HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78442
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="|FR| CINEMA HD",|FR| OCS MAX HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78441
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="|FR| CINEMA HD",|FR| OCS CITY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78440
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="|FR| CINEMA HD",|FR| OCS GEANTS HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78439
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="|FR| CINEMA HD",|FR| OCS CHOC HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78438
+#EXTINF:0 tvg-id="ext" group-title="|FR| CINEMA HD",|FR| CINE+ PREMIERE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78436
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="|FR| CINEMA HD",|FR| CINE+ FRISSON HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78435
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="|FR| CINEMA HD",|FR| CINE+ EMOTION HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78434
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="|FR| CINEMA HD",|FR| CINE+ FAMIZ HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78433
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="|FR| CINEMA HD",|FR| CINE+ CLUB HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78432
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="|FR| CINEMA HD",|FR| CINE+ CLASSIC HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78431
+#EXTINF:0 tvg-id="ext" group-title="|FR| CINEMA HD",|FR| PARAMOUNT DECALE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78430
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="|FR| CINEMA HD",|FR| PARAMOUNT CHANNEL HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78429
+
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",----------------- |FR| DIVERTISSEMENT HD ---------------
+http://ip.mooniptv.cz:80/307276126725/307276126725/78428
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| POLAR+ HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78427
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| POLAR+ HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79068
+#EXTINF:0 tvg-id="Syfy.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| SYFY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78426
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| SYFY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79067
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| SERIE CLUB HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78425
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| SERIE CLUB HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79066
+#EXTINF:0 tvg-id="13RUE.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| 13 EME RUE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78424
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| 13EME RUE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79065
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|  ALTICE STUDIO HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78423
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| ALTICE STUDIO HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79064
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| WARNER HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78422
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| WARNER TV HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79063
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| TV BREIZH HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78421
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| TV BREIZH HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79062
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| NRJ 12 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78420
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| NRJ 12 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79061
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| RMC STORY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78419
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| RMC STORY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79060
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| CHERIE 25 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78418
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| CHERIE 25 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79059
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| PARIS PREMIERE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78417
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| PARIS PREMIERE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79058
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| VICELAND HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78416
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| VICELAND HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79057
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| E! ENTERTAINMENT HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78415
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| E! ENTERTAINMENT HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79056
+#EXTINF:0 tvg-id="MyCuisine.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| MY CUISINE
+http://ip.mooniptv.cz:80/307276126725/307276126725/78414
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| MY CUISINE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79055
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| J ONE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79054
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| J ONE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78413
+#EXTINF:0 tvg-id="GameOne.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| GAME ONE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78412
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| GAME ONE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79053
+#EXTINF:0 tvg-id="Mangas.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| MANGAS HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78411
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| MANGAS HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79052
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| AB 1 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78410
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| AB1 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79051
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| AB 3 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78409
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| AB3 HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79050
+#EXTINF:0 tvg-id="BET.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| BET HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78408
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| BET HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79049
+#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| TV5 MONDE
+http://ip.mooniptv.cz:80/307276126725/307276126725/78407
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| TV5 MONDE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79048
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| TELECLUB ZOOM
+http://ip.mooniptv.cz:80/307276126725/307276126725/78406
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR|SD| TELECLUB ZOOM HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/79047
+#EXTINF:0 tvg-id="ext" group-title="|FR| DIVERTISSEMENT HD",|FR| A+ HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78405
+#EXTINF:0 tvg-id="Nollywood.fr" group-title="|FR| DIVERTISSEMENT HD",|FR| NOLLYWOOD TV
+http://ip.mooniptv.cz:80/307276126725/307276126725/78404
+
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",--------------- |FR| DECOUVERTE HD ---------------
+http://ip.mooniptv.cz:80/307276126725/307276126725/78352
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",|FR| TOUTE L HISTOIR
+http://ip.mooniptv.cz:80/307276126725/307276126725/78351
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="|FR| DECOUVERTE HD",|FR| PLANETE+ HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78350
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",|FR| PLANET A&E HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78349
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|FR| DECOUVERTE HD",|FR| PLANETE+ CI HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78348
+#EXTINF:0 tvg-id="Discovery.fr" group-title="|FR| DECOUVERTE HD",|FR| DISCOVERY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78347
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="|FR| DECOUVERTE HD",|FR| DISCOVERY SCIENCE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78346
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",|FR| DISCOVERY FAMILY HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78345
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",|FR| DISCOVERY ID HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78344
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",|FR| DISCOVERY INVESTIGATION HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78343
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",|FR| NGC HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78342
+#EXTINF:0 tvg-id="ext" group-title="|FR| DECOUVERTE HD",|FR| NGC WILD HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78341
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|FR| DECOUVERTE HD",|FR| USHUAIA HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78339
+#EXTINF:0 tvg-id="Histoire.fr" group-title="|FR| DECOUVERTE HD",|FR| HISTOIRE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78338
+#EXTINF:0 tvg-id="Animaux.fr" group-title="|FR| DECOUVERTE HD",|FR| ANIMAUX HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78337
+#EXTINF:0 tvg-id="Trek.fr" group-title="|FR| DECOUVERTE HD",|FR| TREK HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78336
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|FR| DECOUVERTE HD",|FR| CHASSE ET PECHE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78335
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="|FR| DECOUVERTE HD",|FR| SCIENCE ET VIE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78334
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|FR| DECOUVERTE HD",|FR| RMC DECOUVERTE HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78333
+#EXTINF:0 tvg-id="Seasons.fr" group-title="|FR| DECOUVERTE HD",|FR| SEASONS HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78332
+#EXTINF:0 tvg-id="Gulli.fr" group-title="|FR| DECOUVERTE HD",|FR| GULLI HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78331
+#EXTINF:0 tvg-id="TCM.fr" group-title="|FR| DECOUVERTE HD",|FR| TCM CINEMA HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78330
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="|FR| DECOUVERTE HD",|FR| CRIME DISTRICT HD
+http://ip.mooniptv.cz:80/307276126725/307276126725/78329
